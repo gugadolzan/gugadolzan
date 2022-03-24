@@ -9,7 +9,7 @@
 
 # `Hello, World!`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66ccff&vCenter=true&multiline=true&height=100&lines=My+name+is+Gustavo+Dolzan;but+you+can+call+me+Biza)](https://gugadolzan.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66ccff&vCenter=true&multiline=true&height=80&lines=My+name+is+Gustavo+Dolzan;but+you+can+call+me+Biza)](https://gugadolzan.github.io)
 
 I'm always learning new things and looking forward to generate, disseminate and share knowledge.
 
