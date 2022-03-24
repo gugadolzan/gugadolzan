@@ -35,3 +35,11 @@ Also passionate about technology and financial market, so I seek knowledge from 
 </a>
 
 > _Disclaimer: 'Most Used Languages' does not indicate my skill level or anything like that, it's just a metric of which languages I have the most code on GitHub. Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)._
+
+---
+
+## Contact me
+
+[![GitHub badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugadolzan)
+[![Gmail badge](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudolzan@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dolzan)
