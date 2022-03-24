@@ -40,6 +40,6 @@ Also passionate about technology and financial market, so I seek knowledge from 
 
 ## Contact me
 
-[![GitHub badge](https://img.shields.io/badge/GitHub-00517a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugadolzan)
-[![Gmail badge](https://img.shields.io/badge/Gmail-00517a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudolzan@gmail.com)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-00517a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dolzan)
+[![GitHub badge](https://img.shields.io/badge/GitHub-00a0ef?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugadolzan)
+[![Gmail badge](https://img.shields.io/badge/Gmail-00a0ef?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudolzan@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-00a0ef?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dolzan)
