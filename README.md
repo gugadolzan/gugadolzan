@@ -17,22 +17,16 @@ Also passionate about technology and financial market, so I seek knowledge from 
 
 ---
 
-<a href="https://github.com/gugadolzan">
-  <img
-    align="center"
-    alt="GitHub Stats Card"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=gugadolzan&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=30,000304,005e8d,18b2ff&title_color=fff&text_color=fff&icon_color=fff"
-  />
-</a>
-<a href="https://github.com/gugadolzan">
-  <img
-    align="center"
-    alt="Most Used Languages Card"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugadolzan&langs_count=6&layout=compact&bg_color=30,18b2ff,005e8d,000304&title_color=fff&text_color=fff"
-  />
-</a>
+<img
+  alt="GitHub Stats Card"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=gugadolzan&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=30,000304,005e8d,18b2ff&title_color=fff&text_color=fff&icon_color=fff"
+/>
+<img
+  alt="Most Used Languages Card"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugadolzan&langs_count=6&layout=compact&bg_color=30,18b2ff,005e8d,000304&title_color=fff&text_color=fff"
+/>
 
 *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
