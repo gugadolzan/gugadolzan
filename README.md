@@ -34,7 +34,7 @@ Also passionate about technology and financial market, so I seek knowledge from 
   />
 </a>
 
-> *Disclaimer: 'Most Used Languages' does not indicate my skill level or anything like that, it's just a metric of which languages I have the most code on GitHub. Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).*
+*NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 ---
 
