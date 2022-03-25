@@ -20,7 +20,7 @@ Also passionate about technology and financial market, so I seek knowledge from 
 <img
   alt="GitHub Stats Card"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=gugadolzan&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=30,000304,005e8d,18b2ff&title_color=fff&text_color=fff&icon_color=fff"
+  src="https://github-readme-stats.vercel.app/api?username=gugadolzan&hide=stars,issues&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=30,000304,005e8d,18b2ff&title_color=fff&text_color=fff&icon_color=fff"
 />
 <img
   alt="Most Used Languages Card"
