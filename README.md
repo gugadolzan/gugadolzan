@@ -32,6 +32,76 @@ Also passionate about technology and financial market, so I seek knowledge from 
 
 ---
 
+## Main languages and tools
+
+<img
+  alt="Git icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+  width="40"
+/>
+<img
+  alt="HTML5 icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  width="40"
+/>
+<img
+  alt="CSS3 icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  width="40"
+/>
+<img
+  alt="JavaScript icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  width="40"
+/>
+<img
+  alt="Jest icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+  width="40"
+/>
+<img
+  alt="React icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  width="40"
+/>
+<img
+  alt="Redux icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+  width="40"
+/>
+<img
+  alt="Docker icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+  width="40"
+/>
+<img
+  alt="MySQL icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+  width="40"
+/>
+<img
+  alt="Node.js icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+  width="40"
+/>
+<img
+  alt="Express.js icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+  width="40"
+/>
+<img
+  alt="Sequelize ORM icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
+  width="40"
+/>
+<img
+  alt="TypeScript icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  width="40"
+/>
+
+---
+
 ## Contact me
 
 [![GitHub badge](https://img.shields.io/badge/GitHub-005e8d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugadolzan)
