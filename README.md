@@ -106,4 +106,4 @@ Also passionate about technology and financial market, so I seek knowledge from 
 
 [![GitHub badge](https://img.shields.io/badge/GitHub-005e8d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugadolzan)
 [![Gmail badge](https://img.shields.io/badge/Gmail-005e8d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudolzan@gmail.com)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-005e8d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dolzan)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-005e8d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dolzan/)
