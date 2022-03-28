@@ -95,6 +95,11 @@ Also passionate about technology and financial market, so I seek knowledge from 
   width="40"
 />
 <img
+  alt="Heroku icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
+  width="40"
+/>
+<img
   alt="TypeScript icon"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   width="40"
