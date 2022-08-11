@@ -104,6 +104,16 @@ Also passionate about technology and financial market, so I seek knowledge from 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   width="40"
 />
+<img
+  alt="MongoDB icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+  width="40"
+/>
+<img
+  alt="Python icon"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  width="40"
+/>
 
 ---
 
